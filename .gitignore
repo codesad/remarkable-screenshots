@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# PyCharm project settings
+.idea/
+
+# Logs and OS cruft
+*.log
+.DS_Store
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Local config
+*.env
